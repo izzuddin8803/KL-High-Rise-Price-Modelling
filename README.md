@@ -9,7 +9,7 @@ Suprisingly, using several line of code from pre-existing model from sklearn pro
 decide to write this notebook to share how I did this data analytic project. You can find how i did my web scrapping through another
 repository. I attacheed here the dfaft for my master thesis. I will reupload the final version upon completion. 
 
-#Variables
+# Variables
 
 The Independent Variables
 

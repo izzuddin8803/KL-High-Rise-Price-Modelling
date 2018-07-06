@@ -12,24 +12,25 @@ repository. I attacheed here the dfaft for my master thesis. I will reupload the
 #Variables
 
 The Independent Variables
-*Size
-*Name of the Property
-*Transaction Date
-*Coordinates
-*Street/Neighbourhood
-*Tenure
-*Type (Flat, Apartment, Condominium)
-*Number of rooms
-*Developer Reputation
-*Maintenance Fee
-*Number of Blocks
-*Number of Storeys
-*Level of Storey
-*Total Unit
-*OPR rate (Overnight Policy Rate)
+
+* Size
+* Name of the Property
+* Transaction Date
+* Coordinates
+* S treet/Neighbourhood
+* Tenure
+* Type (Flat, Apartment, Condominium)
+* Number of rooms
+* Developer Reputation
+* Maintenance Fee
+* Number of Blocks
+* Number of Storeys
+* Level of Storey
+* Total Unit
+* OPR rate (Overnight Policy Rate)
 
 Target Variable
-*Price
+* Price
 
 
 

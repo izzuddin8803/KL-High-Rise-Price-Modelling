@@ -18,7 +18,8 @@ The Independent Variables
 * Transaction Date
 * Coordinates
 * Street/Neighbourhood
-* Tenure
+* Tenure (Freehold/ Leasehold)
+* Completion Date
 * Type (Flat, Apartment, Condominium)
 * Number of rooms
 * Developer Reputation
@@ -27,7 +28,7 @@ The Independent Variables
 * Number of Storeys
 * Level of Storey
 * Total Unit
-* OPR rate (Overnight Policy Rate)
+* OPR (Overnight Policy Rate)
 
 Target Variable
 * Price

@@ -17,7 +17,7 @@ The Independent Variables
 * Name of the Property
 * Transaction Date
 * Coordinates
-* S treet/Neighbourhood
+* Street/Neighbourhood
 * Tenure
 * Type (Flat, Apartment, Condominium)
 * Number of rooms

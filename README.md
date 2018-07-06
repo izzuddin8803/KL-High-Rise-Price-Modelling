@@ -7,7 +7,7 @@ model. The Final dataset consist of 953 High Rise Residential in Kuala Lumpur wi
 
 Suprisingly, using several line of code from pre-existing model from sklearn produce such a profound predicition accuracy. So I 
 decide to write this notebook to share how I did this data analytic project. You can find how i did my web scrapping through another
-repository. I attacheed here the dfaft for my master thesis. I will reupload the final version upon completion. 
+repository. I attached here the dfaft for my master thesis. I will reupload the final version upon completion. 
 
 # Variables
 

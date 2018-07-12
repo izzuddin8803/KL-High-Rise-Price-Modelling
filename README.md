@@ -3,7 +3,7 @@ KL High Rise Residential Price Modelling
 
 ## Introduction
 I did this house price data analytic and price predicition project for my master thesis since early this year. This is small project that I enjoyed tremendously. I got the first hand experience of getting the data, clean, explore, transform and finally doing the predicition
-model. The Final dataset consist of 953 High Rise Residential in Kuala Lumpur with around 39,200 row of transactions from 2008-2018. I used transaction dataset from 2017-2018 for the training set.
+model. The Final dataset consist of 953 High Rise Residential in Kuala Lumpur with around 39,200 row of transactions from 2008-2018. I used transaction dataset from 2017-2016 for the training set and the remaining 2017-2018 for the test set.
 
 Suprisingly, using several line of code from pre-existing model from sklearn produce such a profound predicition accuracy. So I 
 decide to write this notebook to share how I did this data analytic project. You can find how i did my web scrapping through another
